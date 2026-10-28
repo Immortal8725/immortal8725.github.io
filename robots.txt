@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://immortal8725.github.io/sitemap.xml
